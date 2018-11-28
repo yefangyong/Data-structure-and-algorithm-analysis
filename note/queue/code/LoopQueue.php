@@ -29,7 +29,7 @@ class LoopQueue
     /**
      * @param $data
      * @return int
-     * @Author 叶方勇
+     * @Author yefy
      * @DateTime 2018-11-27
      * 入队 判断队满的条件为(this->tail + 1) % $this->MaxSize == $this->head
      */
@@ -44,7 +44,7 @@ class LoopQueue
 
     /**
      * @return int|mixed
-     * @Author 叶方勇
+     * @Author yefy
      * @DateTime 2018-11-27
      * 出队
      */
@@ -61,7 +61,7 @@ class LoopQueue
 
     /**
      * @return int
-     * @Author 叶方勇
+     * @Author yefy
      * @DateTime 2018-11-27
      * 获取长度
      */

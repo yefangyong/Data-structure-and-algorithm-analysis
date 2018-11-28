@@ -35,7 +35,7 @@ class QueueOnLinkedList
 
     /**
      * @param $data
-     * @Author 叶方勇
+     * @Author yefy
      * @DateTime 2018-11-27
      * 入队操作
      */
@@ -50,7 +50,7 @@ class QueueOnLinkedList
 
     /**
      * @return bool|null|SingleLinkedListNode
-     * @Author 叶方勇
+     * @Author yefy
      * @DateTime 2018-11-27
      * 出队操作
      */
@@ -67,7 +67,7 @@ class QueueOnLinkedList
 
     /**
      * @return int
-     * @Author 叶方勇
+     * @Author yefy
      * @DateTime 2018-11-27
      * 返回队列的长度
      */
@@ -77,7 +77,7 @@ class QueueOnLinkedList
     }
 
     /**
-     * @Author 叶方勇
+     * @Author yefy
      * @DateTime 2018-11-27
      * 打印队列
      */
